@@ -1,2 +1,2 @@
-# Visual Studio Code WordPress Writer
+# Visual Studio Code WordPress Author Extension
 
