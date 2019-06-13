@@ -1,2 +1,2 @@
-# wpcode
-Visual Studio Code WordPress Writing Extension
+# Visual Studio Code WordPress Writing Extension
+
